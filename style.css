@@ -1,0 +1,89 @@
+/* Practic set question 1,2,3,4 */
+
+
+
+
+
+
+
+
+
+/* header  */
+*{
+    color: aliceblue;
+}
+
+#amazonlogo{
+    font-size: larger;
+    color: #f08804;
+}
+
+
+#nav{
+    background-color: #0f1111;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    margin-right: 300px;
+}
+
+
+#Button{
+    background-color: #f08804;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* body */
+
+
+#div1{
+    background-color: rgba(255,0,0,0.5);
+    height: 800px;
+    border: 2px solid black;
+    width: 100px;
+    margin-right: 784px;
+    display: inline-block;
+    
+    
+}
+
+
+#div2{
+    background-color: rgba(0,255,0,0.5);
+    height: 800px;
+    border: 2px solid black;
+    width: 100px;
+    margin-right: 783px;
+    display: inline-block;
+    
+}
+
+
+
+#div3{
+    background-color: rgba(0,255,255,0.5);
+    height: 800px;
+    border: 2px solid black;
+    width: 100px;
+    display: inline-block;
+}
+
+
+
+/* footer */
+
+footer{
+    text-align: center;
+    height: 50px;
+    background-color: #0f1111;
+}
